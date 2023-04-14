@@ -12,7 +12,12 @@ public class SayerProgramVar {
         // var sayer = new Dog();
         // Dog sayer = new Dog();
 
-        var sayer = new Random().nextBoolean() ? new Dog() : new Cat();
+        var sayer = new Random().nextBoolean() ? new Dog() : new Sayer() {
+            @Override
+            public String say() {
+                return "patata";
+            }
+        };
         Sayer sayerAlt = new Random().nextBoolean() ? new Dog() : new Cat();
 
         var sayer2 = new Random().nextBoolean() ? new Dog() : "patata";

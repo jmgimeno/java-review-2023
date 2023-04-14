@@ -6,16 +6,16 @@
   - [x] Compilation / Runtime (execution)
   - [x] Static / Dynamic
 
-- [ ] var is not dynamic typing
+- [x] var is not dynamic typing
 
-- [ ] Inheritance vs composition
-  - [ ] extends vs implements
-  - [ ] Constructor chaining
+- [x] Inheritance vs composition
+  - [x] extends vs implements
+  - [x] Constructor chaining
 
-- [ ] Nested classes
-  - [ ] inner (non-static)
-    - [ ] qualified this
-  - [ ] static nested
+- [x] Nested classes
+  - [x] inner (non-static)
+    - [x] qualified this
+  - [x] static nested
 
 - [ ] Generics
   - [ ] Bounds and wildcards
