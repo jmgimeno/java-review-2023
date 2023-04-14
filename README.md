@@ -33,3 +33,10 @@
 More info:
 
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/index.html)
+- [Java Magazine](https://blogs.oracle.com/javamagazine/)
+- [Inside Java](https://inside.java/)
+
+- Naftalin & Wadler, _Java Generics and Collections_, Manning, 2006
+- Bloch, _Effective Java_, 3rd ed., Addison-Wesley, 2017
+- Evans, Clark, Verburg, _The Well-Grounded Java Developer_, 2nd ed., Manning, 2022
+- Spilka, _Troubleshooting Java_, Manning, 2023
