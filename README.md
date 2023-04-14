@@ -2,9 +2,9 @@
 =======================
 
 
-- [ ] Polymorphism vs overloading
-  - [ ] Compilation / Runtime (execution)
-  - [ ] Static / Dynamic
+- [x] Polymorphism vs overloading
+  - [x] Compilation / Runtime (execution)
+  - [x] Static / Dynamic
 
 - [ ] var is not dynamic typing
 

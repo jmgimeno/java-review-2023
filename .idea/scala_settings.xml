@@ -19,5 +19,6 @@
         <entry key="yaml" value="yaml" />
       </map>
     </option>
+    <option name="typeMismatchHints" value="false" />
   </component>
 </project>
