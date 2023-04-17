@@ -1,7 +1,6 @@
 (CLASSIC) JAVA ELEMENTS
 =======================
 
-
 - [x] Polymorphism vs overloading
   - [x] Compilation / Runtime (execution)
   - [x] Static / Dynamic
@@ -18,16 +17,16 @@
   - [x] static nested
 
 - [ ] Generics
+  - [x] Compare to arrays
+  - [x] Erasure
+  - [x] Reifiable / Non-reifiable types
+    - cannot create instance of type parameter
+    - cannot create array of parameterized type
+    - cannot use instanceof / cast with parameterized type
+    - cannot overload with two different instantiations of the same parameterized type
+  - [x] Raw-types -> do not use them
+  - [x] With nested classes
   - [ ] Bounds and wildcards
-    - [ ] Compare to arrays
-  - [ ] Erasure
-    - [ ] Reifiable / Non-reifiable types
-      - cannot create instance of type parameter
-      - cannot create array of parameterized type
-      - cannot use instanceof / cast with parameterized type
-      - cannot overload with two different instantiations of the same parameterized type
-  - [ ] Raw-types -> do not use them
-  - [ ] With nested classes
   - [ ] F-bounded polymorphism
 
 More info:
